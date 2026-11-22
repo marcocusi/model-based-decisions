@@ -1,0 +1,1081 @@
+Ensemble,Run,Network,Experiment,Parameter,SeedFraction,SeedCount,ThresholdMode,Tau,Strategy,FinalAdoption,CascadeSuccess,ConvergenceTime,Converged,Time50,Efficiency
+0,0,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,11,True,7.0,19.959999999999997
+0,0,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+0,0,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+0,1,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,9.0,19.959999999999997
+0,1,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+0,1,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+0,2,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,11,True,7.0,19.959999999999997
+0,2,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,3.0,19.959999999999997
+0,2,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,7,True,4.0,19.959999999999997
+0,3,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,13,True,8.0,19.959999999999997
+0,3,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+0,3,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,5.0,19.959999999999997
+0,4,ER,Baseline,beta,0.05,50,beta,,Random,0.996,1,12,True,8.0,19.919999999999998
+0,4,ER,Baseline,beta,0.05,50,beta,,Degree,0.996,1,7,True,4.0,19.919999999999998
+0,4,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.996,1,8,True,4.0,19.919999999999998
+0,5,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,11,True,8.0,19.959999999999997
+0,5,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+0,5,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,7,True,4.0,19.959999999999997
+0,6,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,8.0,19.959999999999997
+0,6,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+0,6,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+0,7,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,14,True,9.0,19.959999999999997
+0,7,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+0,7,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+0,8,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,13,True,8.0,19.98
+0,8,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+0,8,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+0,9,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,8.0,19.959999999999997
+0,9,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+0,9,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,9,True,4.0,19.959999999999997
+0,10,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,14,True,10.0,19.959999999999997
+0,10,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+0,10,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+0,11,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,13,True,8.0,19.959999999999997
+0,11,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,9,True,4.0,19.959999999999997
+0,11,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,9,True,4.0,19.959999999999997
+0,12,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,8.0,19.959999999999997
+0,12,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+0,12,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+0,13,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,8.0,19.959999999999997
+0,13,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,3.0,19.959999999999997
+0,13,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+0,14,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,14,True,8.0,19.98
+0,14,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,10,True,4.0,19.959999999999997
+0,14,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,10,True,4.0,19.959999999999997
+0,15,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,15,True,9.0,19.98
+0,15,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,9,True,4.0,19.959999999999997
+0,15,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,9,True,4.0,19.959999999999997
+0,16,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,14,True,10.0,19.959999999999997
+0,16,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+0,16,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,10,True,4.0,19.959999999999997
+0,17,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,13,True,8.0,19.959999999999997
+0,17,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+0,17,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+0,18,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,11,True,7.0,19.959999999999997
+0,18,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+0,18,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+0,19,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,8.0,19.959999999999997
+0,19,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+0,19,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+0,20,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,11,True,7.0,19.959999999999997
+0,20,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+0,20,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,9,True,4.0,19.959999999999997
+0,21,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,12,True,8.0,19.98
+0,21,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+0,21,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+0,22,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,8.0,19.959999999999997
+0,22,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+0,22,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,7,True,4.0,19.959999999999997
+0,23,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,8.0,19.959999999999997
+0,23,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+0,23,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+0,24,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,7.0,19.959999999999997
+0,24,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+0,24,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,9,True,4.0,19.959999999999997
+0,25,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,9.0,19.959999999999997
+0,25,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+0,25,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+0,26,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,8.0,19.959999999999997
+0,26,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,9,True,4.0,19.959999999999997
+0,26,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,9,True,4.0,19.959999999999997
+0,27,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,13,True,8.0,19.959999999999997
+0,27,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,9,True,4.0,19.959999999999997
+0,27,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,10,True,4.0,19.959999999999997
+0,28,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,14,True,9.0,19.959999999999997
+0,28,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,9,True,4.0,19.959999999999997
+0,28,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,10,True,4.0,19.959999999999997
+0,29,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,8.0,19.959999999999997
+0,29,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,9,True,4.0,19.959999999999997
+0,29,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,9,True,5.0,19.959999999999997
+0,0,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,24,True,8.0,20.0
+0,0,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,26,True,7.0,20.0
+0,0,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,27,True,7.0,20.0
+0,1,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,19,True,7.0,20.0
+0,1,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,34,True,6.0,20.0
+0,1,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,33,True,7.0,20.0
+0,2,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,26,True,9.0,20.0
+0,2,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,31,True,8.0,20.0
+0,2,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,31,True,11.0,20.0
+0,3,WS,Baseline,beta,0.05,50,beta,,Random,0.986,1,27,True,9.0,19.72
+0,3,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,51,True,8.0,20.0
+0,3,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.986,1,49,True,8.0,19.72
+0,4,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,22,True,8.0,20.0
+0,4,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,24,True,7.0,20.0
+0,4,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,26,True,8.0,20.0
+0,5,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,19,True,8.0,20.0
+0,5,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,18,True,7.0,20.0
+0,5,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,19,True,7.0,20.0
+0,6,WS,Baseline,beta,0.05,50,beta,,Random,0.981,1,19,True,7.0,19.619999999999997
+0,6,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,27,True,7.0,20.0
+0,6,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.981,1,27,True,7.0,19.619999999999997
+0,7,WS,Baseline,beta,0.05,50,beta,,Random,0.992,1,20,True,8.0,19.84
+0,7,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,20,True,6.0,20.0
+0,7,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.992,1,24,True,7.0,19.84
+0,8,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,33,True,8.0,20.0
+0,8,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,37,True,6.0,20.0
+0,8,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,42,True,6.0,20.0
+0,9,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,23,True,9.0,20.0
+0,9,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,29,True,8.0,20.0
+0,9,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,25,True,8.0,20.0
+0,10,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,18,True,8.0,20.0
+0,10,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,42,True,8.0,20.0
+0,10,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,45,True,7.0,20.0
+0,11,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,22,True,8.0,20.0
+0,11,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,22,True,8.0,20.0
+0,11,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,20,True,7.0,20.0
+0,12,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,24,True,8.0,20.0
+0,12,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,54,True,7.0,20.0
+0,12,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,49,True,7.0,20.0
+0,13,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,27,True,8.0,20.0
+0,13,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,29,True,7.0,20.0
+0,13,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,27,True,7.0,20.0
+0,14,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,18,True,8.0,20.0
+0,14,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,31,True,8.0,20.0
+0,14,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,28,True,7.0,20.0
+0,15,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,24,True,8.0,20.0
+0,15,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,23,True,7.0,20.0
+0,15,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,25,True,7.0,20.0
+0,16,WS,Baseline,beta,0.05,50,beta,,Random,0.992,1,31,True,8.0,19.84
+0,16,WS,Baseline,beta,0.05,50,beta,,Degree,0.992,1,30,True,7.0,19.84
+0,16,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.992,1,31,True,9.0,19.84
+0,17,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,32,True,10.0,20.0
+0,17,WS,Baseline,beta,0.05,50,beta,,Degree,0.959,1,34,True,9.0,19.18
+0,17,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.959,1,22,True,9.0,19.18
+0,18,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,27,True,8.0,20.0
+0,18,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,65,True,8.0,20.0
+0,18,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,59,True,8.0,20.0
+0,19,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,20,True,7.0,20.0
+0,19,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,29,True,7.0,20.0
+0,19,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,31,True,7.0,20.0
+0,20,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,21,True,8.0,20.0
+0,20,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,27,True,7.0,20.0
+0,20,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,28,True,8.0,20.0
+0,21,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,27,True,7.0,20.0
+0,21,WS,Baseline,beta,0.05,50,beta,,Degree,0.982,1,20,True,7.0,19.639999999999997
+0,21,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.982,1,30,True,7.0,19.639999999999997
+0,22,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,23,True,9.0,20.0
+0,22,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,42,True,6.0,20.0
+0,22,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,37,True,7.0,20.0
+0,23,WS,Baseline,beta,0.05,50,beta,,Random,0.992,1,30,True,10.0,19.84
+0,23,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,36,True,8.0,20.0
+0,23,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.992,1,32,True,8.0,19.84
+0,24,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,24,True,8.0,20.0
+0,24,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,31,True,8.0,20.0
+0,24,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,26,True,8.0,20.0
+0,25,WS,Baseline,beta,0.05,50,beta,,Random,0.992,1,54,True,12.0,19.84
+0,25,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,50,True,8.0,20.0
+0,25,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.992,1,54,True,10.0,19.84
+0,26,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,26,True,9.0,20.0
+0,26,WS,Baseline,beta,0.05,50,beta,,Degree,0.974,1,23,True,7.0,19.479999999999997
+0,26,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.974,1,21,True,6.0,19.479999999999997
+0,27,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,23,True,8.0,20.0
+0,27,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,33,True,7.0,20.0
+0,27,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,33,True,8.0,20.0
+0,28,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,20,True,8.0,20.0
+0,28,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,34,True,7.0,20.0
+0,28,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,34,True,8.0,20.0
+0,29,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,24,True,8.0,20.0
+0,29,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,28,True,7.0,20.0
+0,29,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,25,True,7.0,20.0
+0,0,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,8.0,20.0
+0,0,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+0,0,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+0,1,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,12,True,8.0,20.0
+0,1,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,1,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+0,2,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,8.0,20.0
+0,2,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,2,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+0,3,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,8.0,20.0
+0,3,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,3,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,1.0,20.0
+0,4,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,12,True,8.0,20.0
+0,4,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+0,4,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+0,5,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,10,True,7.0,20.0
+0,5,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,5,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,1.0,20.0
+0,6,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,13,True,10.0,20.0
+0,6,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,6,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,1.0,20.0
+0,7,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,8.0,20.0
+0,7,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+0,7,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+0,8,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,14,True,10.0,20.0
+0,8,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,1.0,20.0
+0,8,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,1.0,20.0
+0,9,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,23,True,20.0,20.0
+0,9,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,9,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,1.0,20.0
+0,10,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,12,True,9.0,20.0
+0,10,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,1.0,20.0
+0,10,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,1.0,20.0
+0,11,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,18,True,15.0,20.0
+0,11,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,1.0,20.0
+0,11,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,1.0,20.0
+0,12,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,17,True,14.0,20.0
+0,12,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+0,12,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+0,13,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,8.0,20.0
+0,13,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,13,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,1.0,20.0
+0,14,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,8,True,5.0,20.0
+0,14,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,14,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+0,15,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,8.0,20.0
+0,15,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,15,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,1.0,20.0
+0,16,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,12,True,8.0,20.0
+0,16,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,16,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,1.0,20.0
+0,17,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,10,True,6.0,20.0
+0,17,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,17,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,1.0,20.0
+0,18,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,20,True,16.0,20.0
+0,18,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,18,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+0,19,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,19,True,16.0,20.0
+0,19,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,19,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,1.0,20.0
+0,20,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,13,True,10.0,20.0
+0,20,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,20,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+0,21,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,10,True,6.0,20.0
+0,21,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+0,21,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+0,22,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,8.0,20.0
+0,22,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+0,22,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+0,23,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,19,True,15.0,20.0
+0,23,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+0,23,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+0,24,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,8,True,5.0,20.0
+0,24,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,24,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,1.0,20.0
+0,25,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,12,True,9.0,20.0
+0,25,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+0,25,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+0,26,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,10,True,7.0,20.0
+0,26,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,26,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,1.0,20.0
+0,27,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,9,True,6.0,20.0
+0,27,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,27,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,1.0,20.0
+0,28,BA,Baseline,beta,0.05,50,beta,,Random,0.144,0,8,True,,2.8799999999999994
+0,28,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+0,28,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+0,29,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,12,True,9.0,20.0
+0,29,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,1.0,20.0
+0,29,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,1.0,20.0
+0,0,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9680380822849372,1,20,True,12.0,19.36076164569874
+0,0,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.949336960217613,1,7,True,1.0,18.98673920435226
+0,0,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.949336960217613,1,7,True,1.0,18.98673920435226
+0,1,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9680380822849372,1,34,True,20.0,19.36076164569874
+0,1,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9619177150629038,1,8,True,1.0,19.238354301258074
+0,1,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9673580414824889,1,6,True,1.0,19.347160829649777
+0,2,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9649778986739205,1,27,True,15.0,19.299557973478407
+0,2,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9612376742604556,1,9,True,1.0,19.22475348520911
+0,2,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9612376742604556,1,9,True,1.0,19.22475348520911
+0,3,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9605576334580075,1,23,True,14.0,19.21115266916015
+0,3,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9547772866371982,1,9,True,1.0,19.09554573274396
+0,3,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9602176130567834,1,7,True,1.0,19.204352261135668
+0,4,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9704182250935056,1,28,True,16.0,19.40836450187011
+0,4,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9564773886433185,1,8,True,1.0,19.12954777286637
+0,4,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9605576334580075,1,7,True,1.0,19.21115266916015
+0,5,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9653179190751445,1,17,True,8.0,19.30635838150289
+0,5,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.944576674600476,1,8,True,1.0,18.89153349200952
+0,5,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9551173070384223,1,7,True,1.0,19.102346140768447
+0,6,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9540972458347501,1,25,True,14.0,19.081944916695
+0,6,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.953417205032302,1,8,True,1.0,19.068344100646037
+0,6,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.953417205032302,1,8,True,1.0,19.068344100646037
+0,7,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9687181230873853,1,20,True,12.0,19.374362461747705
+0,7,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9636178170690242,1,10,True,1.0,19.272356341380483
+0,7,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9636178170690242,1,9,True,1.0,19.272356341380483
+0,8,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9608976538592315,1,23,True,15.0,19.217953077184628
+0,8,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9564773886433185,1,8,True,1.0,19.12954777286637
+0,8,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9595375722543352,1,8,True,1.0,19.190751445086704
+0,9,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9615776946616797,1,19,True,10.0,19.231553893233595
+0,9,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9472968378102686,1,9,True,1.0,18.94593675620537
+0,9,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9588575314518871,1,9,True,1.0,19.17715062903774
+0,10,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9755185311118667,1,30,True,17.0,19.510370622237332
+0,10,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9704182250935056,1,10,True,1.0,19.40836450187011
+0,10,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9704182250935056,1,7,True,1.0,19.40836450187011
+0,11,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9670180210812649,1,30,True,19.0,19.340360421625295
+0,11,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9574974498469908,1,9,True,1.0,19.149948996939816
+0,11,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9639578374702482,1,8,True,1.0,19.27915674940496
+0,12,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9659979598775926,1,30,True,19.0,19.319959197551853
+0,12,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9602176130567834,1,9,True,1.0,19.204352261135668
+0,12,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.967698061883713,1,8,True,1.0,19.35396123767426
+0,13,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9687181230873853,1,22,True,10.0,19.374362461747705
+0,13,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9547772866371982,1,9,True,1.0,19.09554573274396
+0,13,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9602176130567834,1,8,True,1.0,19.204352261135668
+0,14,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.967698061883713,1,36,True,25.0,19.35396123767426
+0,14,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.953757225433526,1,8,True,1.0,19.07514450867052
+0,14,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.953757225433526,1,7,True,1.0,19.07514450867052
+0,15,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9646378782726963,1,22,True,11.0,19.292757565453925
+0,15,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9574974498469908,1,8,True,1.0,19.149948996939816
+0,15,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9585175110506631,1,7,True,1.0,19.170350221013262
+0,16,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9588575314518871,1,22,True,13.0,19.17715062903774
+0,16,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9408364501870112,1,8,True,1.0,18.816729003740225
+0,16,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.944576674600476,1,7,True,1.0,18.89153349200952
+0,17,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.962937776266576,1,20,True,10.0,19.25875552533152
+0,17,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9554573274396464,1,9,True,1.0,19.10914654879293
+0,17,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9588575314518871,1,7,True,1.0,19.17715062903774
+0,18,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.967698061883713,1,24,True,14.0,19.35396123767426
+0,18,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.948656919415165,1,8,True,1.0,18.973138388303298
+0,18,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9581774906494389,1,8,True,1.0,19.163549812988776
+0,19,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9513770826249575,1,20,True,11.0,19.02754165249915
+0,19,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9479768786127167,1,9,True,1.0,18.959537572254334
+0,19,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9513770826249575,1,9,True,1.0,19.02754165249915
+0,20,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9602176130567834,1,22,True,11.0,19.204352261135668
+0,20,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9523971438286297,1,9,True,1.0,19.047942876572595
+0,20,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9578374702482149,1,7,True,1.0,19.156749404964295
+0,21,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9595375722543352,1,36,True,26.0,19.190751445086704
+0,21,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9452567154029242,1,8,True,1.0,18.905134308058482
+0,21,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9547772866371982,1,6,True,1.0,19.09554573274396
+0,22,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9591975518531112,1,24,True,14.0,19.183951037062222
+0,22,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9561373682420945,1,8,True,1.0,19.12274736484189
+0,22,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9595375722543352,1,7,True,1.0,19.190751445086704
+0,23,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9513770826249575,1,21,True,11.0,19.02754165249915
+0,23,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.944576674600476,1,9,True,1.0,18.89153349200952
+0,23,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9510370622237334,1,7,True,1.0,19.020741244474667
+0,24,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9585175110506631,1,25,True,13.0,19.170350221013262
+0,24,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9513770826249575,1,8,True,1.0,19.02754165249915
+0,24,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9608976538592315,1,8,True,1.0,19.217953077184628
+0,25,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9704182250935056,1,18,True,10.0,19.40836450187011
+0,25,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9608976538592315,1,7,True,1.0,19.217953077184628
+0,25,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9690581434886093,1,7,True,1.0,19.381162869772186
+0,26,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9636178170690242,1,29,True,17.0,19.272356341380483
+0,26,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.948656919415165,1,8,True,1.0,18.973138388303298
+0,26,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9540972458347501,1,7,True,1.0,19.081944916695
+0,27,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.972118327099626,1,24,True,14.0,19.44236654199252
+0,27,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9557973478408704,1,7,True,1.0,19.115946956817407
+0,27,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9557973478408704,1,6,True,1.0,19.115946956817407
+0,28,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9619177150629038,1,23,True,15.0,19.238354301258074
+0,28,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9455967358041483,1,9,True,1.0,18.911934716082964
+0,28,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9500170010200613,1,9,True,1.0,19.000340020401225
+0,29,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9571574294457668,1,19,True,11.0,19.143148588915334
+0,29,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9523971438286297,1,8,True,1.0,19.047942876572595
+0,29,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9554573274396464,1,8,True,1.0,19.10914654879293
+1,0,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,16,True,12.0,19.959999999999997
+1,0,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,9,True,4.0,19.959999999999997
+1,0,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,9,True,4.0,19.959999999999997
+1,1,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,13,True,10.0,19.959999999999997
+1,1,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+1,1,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,7,True,4.0,19.959999999999997
+1,2,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,9.0,19.959999999999997
+1,2,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+1,2,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,5.0,19.959999999999997
+1,3,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,11,True,7.0,19.98
+1,3,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+1,3,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,4,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,11,True,7.0,19.959999999999997
+1,4,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+1,4,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,5,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,8.0,19.959999999999997
+1,5,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+1,5,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,6,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,11,True,8.0,19.959999999999997
+1,6,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+1,6,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,5.0,19.959999999999997
+1,7,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,8.0,19.959999999999997
+1,7,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+1,7,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,8,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,14,True,10.0,19.959999999999997
+1,8,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+1,8,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,9,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,11,True,7.0,19.959999999999997
+1,9,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+1,9,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,10,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,9.0,19.959999999999997
+1,10,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+1,10,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,11,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,11,True,7.0,19.959999999999997
+1,11,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+1,11,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,7,True,4.0,19.959999999999997
+1,12,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,10,True,7.0,19.959999999999997
+1,12,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+1,12,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,7,True,4.0,19.959999999999997
+1,13,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,11,True,7.0,19.959999999999997
+1,13,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+1,13,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,14,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,10,True,7.0,19.959999999999997
+1,14,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+1,14,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,15,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,13,True,9.0,19.959999999999997
+1,15,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+1,15,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,16,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,13,True,9.0,19.959999999999997
+1,16,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+1,16,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,17,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,11,True,8.0,19.959999999999997
+1,17,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+1,17,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,18,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,11,True,8.0,19.959999999999997
+1,18,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,5.0,19.959999999999997
+1,18,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,5.0,19.959999999999997
+1,19,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,10,True,7.0,19.959999999999997
+1,19,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+1,19,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,20,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,8.0,19.959999999999997
+1,20,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+1,20,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,21,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,11,True,7.0,19.959999999999997
+1,21,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+1,21,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,22,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,14,True,10.0,19.959999999999997
+1,22,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,9,True,4.0,19.959999999999997
+1,22,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,5.0,19.959999999999997
+1,23,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,11,True,7.0,19.959999999999997
+1,23,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+1,23,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,7,True,4.0,19.959999999999997
+1,24,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,12,True,8.0,19.98
+1,24,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,7,True,4.0,19.959999999999997
+1,24,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,5.0,19.959999999999997
+1,25,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,13,True,9.0,19.98
+1,25,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+1,25,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,26,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,13,True,10.0,19.959999999999997
+1,26,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+1,26,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,5.0,19.959999999999997
+1,27,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,8.0,19.959999999999997
+1,27,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+1,27,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,7,True,4.0,19.959999999999997
+1,28,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,8.0,19.959999999999997
+1,28,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+1,28,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,29,ER,Baseline,beta,0.05,50,beta,,Random,0.998,1,12,True,8.0,19.959999999999997
+1,29,ER,Baseline,beta,0.05,50,beta,,Degree,0.998,1,8,True,4.0,19.959999999999997
+1,29,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.998,1,8,True,4.0,19.959999999999997
+1,0,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,24,True,9.0,20.0
+1,0,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,28,True,7.0,20.0
+1,0,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,32,True,8.0,20.0
+1,1,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,24,True,8.0,20.0
+1,1,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,21,True,7.0,20.0
+1,1,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,37,True,8.0,20.0
+1,2,WS,Baseline,beta,0.05,50,beta,,Random,0.994,1,25,True,10.0,19.88
+1,2,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,32,True,6.0,20.0
+1,2,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.994,1,22,True,7.0,19.88
+1,3,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,34,True,7.0,20.0
+1,3,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,34,True,6.0,20.0
+1,3,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,24,True,7.0,20.0
+1,4,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,24,True,8.0,20.0
+1,4,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,25,True,7.0,20.0
+1,4,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,24,True,7.0,20.0
+1,5,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,24,True,8.0,20.0
+1,5,WS,Baseline,beta,0.05,50,beta,,Degree,0.984,1,34,True,7.0,19.68
+1,5,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.97,1,32,True,8.0,19.4
+1,6,WS,Baseline,beta,0.05,50,beta,,Random,0.983,1,37,True,8.0,19.66
+1,6,WS,Baseline,beta,0.05,50,beta,,Degree,0.967,1,29,True,6.0,19.34
+1,6,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.967,1,27,True,8.0,19.34
+1,7,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,40,True,8.0,20.0
+1,7,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,36,True,8.0,20.0
+1,7,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,33,True,8.0,20.0
+1,8,WS,Baseline,beta,0.05,50,beta,,Random,0.994,1,23,True,9.0,19.88
+1,8,WS,Baseline,beta,0.05,50,beta,,Degree,0.994,1,23,True,6.0,19.88
+1,8,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.984,1,25,True,8.0,19.68
+1,9,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,28,True,9.0,20.0
+1,9,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,37,True,6.0,20.0
+1,9,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,38,True,8.0,20.0
+1,10,WS,Baseline,beta,0.05,50,beta,,Random,0.994,1,24,True,8.0,19.88
+1,10,WS,Baseline,beta,0.05,50,beta,,Degree,0.971,1,21,True,6.0,19.419999999999998
+1,10,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.971,1,22,True,7.0,19.419999999999998
+1,11,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,24,True,8.0,20.0
+1,11,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,31,True,6.0,20.0
+1,11,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.984,1,35,True,7.0,19.68
+1,12,WS,Baseline,beta,0.05,50,beta,,Random,0.99,1,22,True,7.0,19.799999999999997
+1,12,WS,Baseline,beta,0.05,50,beta,,Degree,0.99,1,31,True,7.0,19.799999999999997
+1,12,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.972,1,29,True,9.0,19.439999999999998
+1,13,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,36,True,8.0,20.0
+1,13,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,34,True,7.0,20.0
+1,13,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,35,True,10.0,20.0
+1,14,WS,Baseline,beta,0.05,50,beta,,Random,0.989,1,29,True,8.0,19.779999999999998
+1,14,WS,Baseline,beta,0.05,50,beta,,Degree,0.978,1,37,True,7.0,19.56
+1,14,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.978,1,33,True,9.0,19.56
+1,15,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,29,True,8.0,20.0
+1,15,WS,Baseline,beta,0.05,50,beta,,Degree,0.985,1,33,True,8.0,19.7
+1,15,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.985,1,26,True,9.0,19.7
+1,16,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,25,True,7.0,20.0
+1,16,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,24,True,7.0,20.0
+1,16,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,19,True,8.0,20.0
+1,17,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,36,True,9.0,20.0
+1,17,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,22,True,7.0,20.0
+1,17,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,23,True,8.0,20.0
+1,18,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,37,True,8.0,20.0
+1,18,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,26,True,8.0,20.0
+1,18,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,22,True,8.0,20.0
+1,19,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,29,True,8.0,20.0
+1,19,WS,Baseline,beta,0.05,50,beta,,Degree,0.99,1,31,True,7.0,19.799999999999997
+1,19,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.99,1,25,True,7.0,19.799999999999997
+1,20,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,28,True,8.0,20.0
+1,20,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,47,True,6.0,20.0
+1,20,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,30,True,7.0,20.0
+1,21,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,30,True,8.0,20.0
+1,21,WS,Baseline,beta,0.05,50,beta,,Degree,0.992,1,29,True,6.0,19.84
+1,21,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.992,1,28,True,8.0,19.84
+1,22,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,25,True,9.0,20.0
+1,22,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,25,True,8.0,20.0
+1,22,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,25,True,10.0,20.0
+1,23,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,34,True,9.0,20.0
+1,23,WS,Baseline,beta,0.05,50,beta,,Degree,0.975,1,38,True,6.0,19.5
+1,23,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.975,1,30,True,8.0,19.5
+1,24,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,27,True,9.0,20.0
+1,24,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,39,True,8.0,20.0
+1,24,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,30,True,9.0,20.0
+1,25,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,21,True,7.0,20.0
+1,25,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,29,True,6.0,20.0
+1,25,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,25,True,7.0,20.0
+1,26,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,33,True,7.0,20.0
+1,26,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,26,True,7.0,20.0
+1,26,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,41,True,9.0,20.0
+1,27,WS,Baseline,beta,0.05,50,beta,,Random,0.99,1,22,True,7.0,19.799999999999997
+1,27,WS,Baseline,beta,0.05,50,beta,,Degree,0.99,1,18,True,6.0,19.799999999999997
+1,27,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.99,1,21,True,7.0,19.799999999999997
+1,28,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,29,True,7.0,20.0
+1,28,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,22,True,6.0,20.0
+1,28,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,20,True,7.0,20.0
+1,29,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,28,True,8.0,20.0
+1,29,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,30,True,7.0,20.0
+1,29,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,26,True,7.0,20.0
+1,0,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,13,True,9.0,20.0
+1,0,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,0,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+1,1,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,9,True,6.0,20.0
+1,1,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,1,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+1,2,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,10,True,7.0,20.0
+1,2,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+1,2,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+1,3,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,10,True,6.0,20.0
+1,3,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,3,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+1,4,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,13,True,10.0,20.0
+1,4,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,4,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+1,5,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,12,True,9.0,20.0
+1,5,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+1,5,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+1,6,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,8,True,5.0,20.0
+1,6,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,6,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+1,7,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,17,True,14.0,20.0
+1,7,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,7,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+1,8,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,28,True,24.0,20.0
+1,8,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,8,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+1,9,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,10,True,7.0,20.0
+1,9,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+1,9,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+1,10,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,9,True,6.0,20.0
+1,10,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+1,10,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+1,11,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,10,True,6.0,20.0
+1,11,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,11,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+1,12,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,10,True,6.0,20.0
+1,12,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,12,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+1,13,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,13,True,10.0,20.0
+1,13,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,1.0,20.0
+1,13,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,1.0,20.0
+1,14,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,14,True,11.0,20.0
+1,14,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+1,14,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+1,15,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,9,True,6.0,20.0
+1,15,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,15,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+1,16,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,13,True,10.0,20.0
+1,16,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,16,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+1,17,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,7.0,20.0
+1,17,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,17,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+1,18,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,13,True,10.0,20.0
+1,18,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,18,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+1,19,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,8,True,5.0,20.0
+1,19,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,19,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+1,20,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,7.0,20.0
+1,20,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+1,20,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+1,21,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,8.0,20.0
+1,21,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+1,21,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+1,22,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,14,True,10.0,20.0
+1,22,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,22,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+1,23,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,12,True,8.0,20.0
+1,23,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+1,23,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+1,24,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,9,True,6.0,20.0
+1,24,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+1,24,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+1,25,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,9,True,6.0,20.0
+1,25,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,25,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+1,26,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,10,True,6.0,20.0
+1,26,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+1,26,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+1,27,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,7.0,20.0
+1,27,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,27,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+1,28,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,7.0,20.0
+1,28,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,28,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+1,29,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,8.0,20.0
+1,29,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+1,29,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+1,0,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9588575314518871,1,20,True,13.0,19.17715062903774
+1,0,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9544372662359741,1,9,True,1.0,19.088745324719483
+1,0,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9571574294457668,1,8,True,1.0,19.143148588915334
+1,1,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9673580414824889,1,29,True,20.0,19.347160829649777
+1,1,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9571574294457668,1,7,True,1.0,19.143148588915334
+1,1,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9598775926555594,1,7,True,1.0,19.197551853111186
+1,2,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.962937776266576,1,19,True,11.0,19.25875552533152
+1,2,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9510370622237334,1,7,True,1.0,19.020741244474667
+1,2,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9547772866371982,1,7,True,1.0,19.09554573274396
+1,3,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9663379802788167,1,16,True,9.0,19.32675960557633
+1,3,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9636178170690242,1,8,True,1.0,19.272356341380483
+1,3,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9663379802788167,1,7,True,1.0,19.32675960557633
+1,4,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9598775926555594,1,23,True,11.0,19.197551853111186
+1,4,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9500170010200613,1,9,True,1.0,19.000340020401225
+1,4,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9639578374702482,1,8,True,1.0,19.27915674940496
+1,5,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9717783066984019,1,24,True,15.0,19.435566133968038
+1,5,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9554573274396464,1,10,True,1.0,19.10914654879293
+1,5,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9591975518531112,1,8,True,1.0,19.183951037062222
+1,6,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9571574294457668,1,22,True,12.0,19.143148588915334
+1,6,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9551173070384223,1,9,True,1.0,19.102346140768447
+1,6,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9578374702482149,1,8,True,1.0,19.156749404964295
+1,7,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9666780006800408,1,23,True,11.0,19.333560013600817
+1,7,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9636178170690242,1,9,True,1.0,19.272356341380483
+1,7,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9663379802788167,1,7,True,1.0,19.32675960557633
+1,8,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9619177150629038,1,22,True,14.0,19.238354301258074
+1,8,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9483168990139408,1,7,True,1.0,18.966337980278816
+1,8,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9554573274396464,1,6,True,1.0,19.10914654879293
+1,9,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9595375722543352,1,21,True,11.0,19.190751445086704
+1,9,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9517171030261816,1,10,True,1.0,19.03434206052363
+1,9,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9619177150629038,1,9,True,1.0,19.238354301258074
+1,10,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9642978578714723,1,33,True,23.0,19.285957157429443
+1,10,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9574974498469908,1,10,True,1.0,19.149948996939816
+1,10,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9605576334580075,1,10,True,1.0,19.21115266916015
+1,11,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9619177150629038,1,22,True,12.0,19.238354301258074
+1,11,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9523971438286297,1,8,True,1.0,19.047942876572595
+1,11,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9591975518531112,1,7,True,1.0,19.183951037062222
+1,12,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9656579394763686,1,25,True,13.0,19.31315878952737
+1,12,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9517171030261816,1,9,True,1.0,19.03434206052363
+1,12,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9544372662359741,1,8,True,1.0,19.088745324719483
+1,13,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.962937776266576,1,23,True,14.0,19.25875552533152
+1,13,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9571574294457668,1,8,True,1.0,19.143148588915334
+1,13,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9639578374702482,1,7,True,1.0,19.27915674940496
+1,14,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9619177150629038,1,28,True,14.0,19.238354301258074
+1,14,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9530771846310778,1,9,True,1.0,19.061543692621555
+1,14,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9588575314518871,1,9,True,1.0,19.17715062903774
+1,15,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9700782046922816,1,28,True,13.0,19.40156409384563
+1,15,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9659979598775926,1,7,True,1.0,19.319959197551853
+1,15,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9687181230873853,1,7,True,1.0,19.374362461747705
+1,16,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9615776946616797,1,16,True,7.0,19.231553893233595
+1,16,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9530771846310778,1,8,True,1.0,19.061543692621555
+1,16,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9557973478408704,1,7,True,1.0,19.115946956817407
+1,17,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9673580414824889,1,34,True,19.0,19.347160829649777
+1,17,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9459367562053723,1,10,True,1.0,18.918735124107446
+1,17,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9557973478408704,1,10,True,1.0,19.115946956817407
+1,18,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.972118327099626,1,25,True,12.0,19.44236654199252
+1,18,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9595375722543352,1,10,True,1.0,19.190751445086704
+1,18,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9622577354641279,1,7,True,1.0,19.245154709282556
+1,19,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9625977558653519,1,29,True,13.0,19.251955117307038
+1,19,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.948656919415165,1,9,True,1.0,18.973138388303298
+1,19,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9625977558653519,1,7,True,1.0,19.251955117307038
+1,20,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9578374702482149,1,19,True,10.0,19.156749404964295
+1,20,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9506970418225094,1,10,True,1.0,19.013940836450185
+1,20,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9574974498469908,1,8,True,1.0,19.149948996939816
+1,21,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9680380822849372,1,22,True,11.0,19.36076164569874
+1,21,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9568174090445427,1,8,True,1.0,19.136348180890852
+1,21,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9636178170690242,1,7,True,1.0,19.272356341380483
+1,22,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9636178170690242,1,17,True,10.0,19.272356341380483
+1,22,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9564773886433185,1,8,True,1.0,19.12954777286637
+1,22,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9591975518531112,1,8,True,1.0,19.183951037062222
+1,23,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9595375722543352,1,23,True,11.0,19.190751445086704
+1,23,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9462767766065964,1,8,True,1.0,18.925535532131928
+1,23,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9530771846310778,1,7,True,1.0,19.061543692621555
+1,24,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9649778986739205,1,26,True,17.0,19.299557973478407
+1,24,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9622577354641279,1,9,True,1.0,19.245154709282556
+1,24,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9693981638898334,1,8,True,1.0,19.387963277796665
+1,25,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9557973478408704,1,15,True,8.0,19.115946956817407
+1,25,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9513770826249575,1,7,True,1.0,19.02754165249915
+1,25,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9585175110506631,1,7,True,1.0,19.170350221013262
+1,26,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9588575314518871,1,21,True,11.0,19.17715062903774
+1,26,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9554573274396464,1,9,True,1.0,19.10914654879293
+1,26,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9581774906494389,1,7,True,1.0,19.163549812988776
+1,27,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9615776946616797,1,23,True,14.0,19.231553893233595
+1,27,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9530771846310778,1,9,True,1.0,19.061543692621555
+1,27,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9598775926555594,1,7,True,1.0,19.197551853111186
+1,28,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9605576334580075,1,17,True,8.0,19.21115266916015
+1,28,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9496769806188371,1,10,True,1.0,18.99353961237674
+1,28,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9561373682420945,1,7,True,1.0,19.12274736484189
+1,29,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9639578374702482,1,23,True,12.0,19.27915674940496
+1,29,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9581774906494389,1,8,True,1.0,19.163549812988776
+1,29,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9649778986739205,1,8,True,1.0,19.299557973478407
+2,0,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,12,True,8.0,19.98
+2,0,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,7,True,4.0,19.98
+2,0,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,8,True,4.0,19.98
+2,1,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,13,True,9.0,19.98
+2,1,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,7,True,4.0,19.98
+2,1,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,7,True,4.0,19.98
+2,2,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,16,True,13.0,19.98
+2,2,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,8,True,4.0,19.98
+2,2,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,8,True,5.0,19.98
+2,3,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,11,True,8.0,19.98
+2,3,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,8,True,4.0,19.98
+2,3,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,9,True,4.0,19.98
+2,4,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,14,True,10.0,19.98
+2,4,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,8,True,4.0,19.98
+2,4,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,8,True,4.0,19.98
+2,5,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,11,True,7.0,19.98
+2,5,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,7,True,4.0,19.98
+2,5,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,8,True,4.0,19.98
+2,6,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,13,True,7.0,19.98
+2,6,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,8,True,4.0,19.98
+2,6,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,8,True,4.0,19.98
+2,7,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,10,True,7.0,19.98
+2,7,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,7,True,4.0,19.98
+2,7,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,7,True,4.0,19.98
+2,8,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,11,True,7.0,19.98
+2,8,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,8,True,4.0,19.98
+2,8,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,7,True,4.0,19.98
+2,9,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,9,True,6.0,19.98
+2,9,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,8,True,4.0,19.98
+2,9,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,8,True,4.0,19.98
+2,10,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,11,True,7.0,19.98
+2,10,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,7,True,4.0,19.98
+2,10,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,9,True,4.0,19.98
+2,11,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,12,True,8.0,19.98
+2,11,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,9,True,4.0,19.98
+2,11,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,9,True,4.0,19.98
+2,12,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,11,True,8.0,19.98
+2,12,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,7,True,4.0,19.98
+2,12,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,8,True,4.0,19.98
+2,13,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,15,True,11.0,19.98
+2,13,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,8,True,4.0,19.98
+2,13,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,9,True,4.0,19.98
+2,14,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,14,True,10.0,19.98
+2,14,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,8,True,4.0,19.98
+2,14,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,8,True,4.0,19.98
+2,15,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,11,True,7.0,19.98
+2,15,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,8,True,4.0,19.98
+2,15,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,8,True,4.0,19.98
+2,16,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,11,True,7.0,19.98
+2,16,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,7,True,4.0,19.98
+2,16,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,7,True,4.0,19.98
+2,17,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,11,True,8.0,19.98
+2,17,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,7,True,4.0,19.98
+2,17,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,8,True,4.0,19.98
+2,18,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,13,True,9.0,19.98
+2,18,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,7,True,4.0,19.98
+2,18,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,8,True,4.0,19.98
+2,19,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,15,True,12.0,19.98
+2,19,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,7,True,4.0,19.98
+2,19,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,7,True,4.0,19.98
+2,20,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,11,True,7.0,19.98
+2,20,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,7,True,4.0,19.98
+2,20,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,7,True,4.0,19.98
+2,21,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,11,True,7.0,19.98
+2,21,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,8,True,4.0,19.98
+2,21,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,9,True,4.0,19.98
+2,22,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,10,True,6.0,19.98
+2,22,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,7,True,4.0,19.98
+2,22,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,7,True,4.0,19.98
+2,23,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,11,True,7.0,19.98
+2,23,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,8,True,4.0,19.98
+2,23,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,7,True,4.0,19.98
+2,24,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,12,True,8.0,19.98
+2,24,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,8,True,4.0,19.98
+2,24,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,8,True,4.0,19.98
+2,25,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,13,True,8.0,19.98
+2,25,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,7,True,4.0,19.98
+2,25,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,7,True,4.0,19.98
+2,26,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,12,True,8.0,19.98
+2,26,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,7,True,4.0,19.98
+2,26,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,8,True,4.0,19.98
+2,27,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,11,True,8.0,19.98
+2,27,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,7,True,4.0,19.98
+2,27,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,8,True,4.0,19.98
+2,28,ER,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,7.0,20.0
+2,28,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,7,True,4.0,19.98
+2,28,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,7,True,4.0,19.98
+2,29,ER,Baseline,beta,0.05,50,beta,,Random,0.999,1,12,True,8.0,19.98
+2,29,ER,Baseline,beta,0.05,50,beta,,Degree,0.999,1,7,True,4.0,19.98
+2,29,ER,Baseline,beta,0.05,50,beta,,Betweenness,0.999,1,8,True,4.0,19.98
+2,0,WS,Baseline,beta,0.05,50,beta,,Random,0.968,1,39,True,10.0,19.36
+2,0,WS,Baseline,beta,0.05,50,beta,,Degree,0.968,1,32,True,9.0,19.36
+2,0,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.942,1,31,True,8.0,18.839999999999996
+2,1,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,30,True,8.0,20.0
+2,1,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,28,True,8.0,20.0
+2,1,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,27,True,8.0,20.0
+2,2,WS,Baseline,beta,0.05,50,beta,,Random,0.992,1,22,True,9.0,19.84
+2,2,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,21,True,7.0,20.0
+2,2,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.992,1,36,True,7.0,19.84
+2,3,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,38,True,9.0,20.0
+2,3,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,24,True,7.0,20.0
+2,3,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,32,True,8.0,20.0
+2,4,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,20,True,7.0,20.0
+2,4,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,22,True,7.0,20.0
+2,4,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,21,True,7.0,20.0
+2,5,WS,Baseline,beta,0.05,50,beta,,Random,0.989,1,26,True,9.0,19.779999999999998
+2,5,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,27,True,7.0,20.0
+2,5,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.989,1,32,True,8.0,19.779999999999998
+2,6,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,24,True,8.0,20.0
+2,6,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,27,True,7.0,20.0
+2,6,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,31,True,6.0,20.0
+2,7,WS,Baseline,beta,0.05,50,beta,,Random,0.987,1,33,True,9.0,19.74
+2,7,WS,Baseline,beta,0.05,50,beta,,Degree,0.974,1,33,True,7.0,19.479999999999997
+2,7,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.974,1,43,True,8.0,19.479999999999997
+2,8,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,29,True,8.0,20.0
+2,8,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,53,True,8.0,20.0
+2,8,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,51,True,7.0,20.0
+2,9,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,29,True,9.0,20.0
+2,9,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,25,True,7.0,20.0
+2,9,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,30,True,7.0,20.0
+2,10,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,28,True,10.0,20.0
+2,10,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,30,True,7.0,20.0
+2,10,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,30,True,7.0,20.0
+2,11,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,30,True,9.0,20.0
+2,11,WS,Baseline,beta,0.05,50,beta,,Degree,0.972,1,22,True,7.0,19.439999999999998
+2,11,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.972,1,23,True,7.0,19.439999999999998
+2,12,WS,Baseline,beta,0.05,50,beta,,Random,0.994,1,21,True,8.0,19.88
+2,12,WS,Baseline,beta,0.05,50,beta,,Degree,0.994,1,21,True,6.0,19.88
+2,12,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.994,1,25,True,6.0,19.88
+2,13,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,26,True,8.0,20.0
+2,13,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,30,True,7.0,20.0
+2,13,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,28,True,8.0,20.0
+2,14,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,21,True,7.0,20.0
+2,14,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,29,True,7.0,20.0
+2,14,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,28,True,8.0,20.0
+2,15,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,25,True,8.0,20.0
+2,15,WS,Baseline,beta,0.05,50,beta,,Degree,0.972,1,29,True,7.0,19.439999999999998
+2,15,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,28,True,6.0,20.0
+2,16,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,24,True,8.0,20.0
+2,16,WS,Baseline,beta,0.05,50,beta,,Degree,0.985,1,28,True,7.0,19.7
+2,16,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.985,1,30,True,7.0,19.7
+2,17,WS,Baseline,beta,0.05,50,beta,,Random,0.975,1,31,True,10.0,19.5
+2,17,WS,Baseline,beta,0.05,50,beta,,Degree,0.975,1,29,True,7.0,19.5
+2,17,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.975,1,28,True,7.0,19.5
+2,18,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,20,True,8.0,20.0
+2,18,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,25,True,6.0,20.0
+2,18,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.937,1,19,True,6.0,18.74
+2,19,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,27,True,8.0,20.0
+2,19,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,34,True,7.0,20.0
+2,19,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,33,True,7.0,20.0
+2,20,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,26,True,8.0,20.0
+2,20,WS,Baseline,beta,0.05,50,beta,,Degree,0.992,1,23,True,7.0,19.84
+2,20,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.992,1,24,True,6.0,19.84
+2,21,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,22,True,8.0,20.0
+2,21,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,39,True,8.0,20.0
+2,21,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,29,True,6.0,20.0
+2,22,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,22,True,8.0,20.0
+2,22,WS,Baseline,beta,0.05,50,beta,,Degree,0.976,1,41,True,7.0,19.52
+2,22,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.976,1,52,True,7.0,19.52
+2,23,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,29,True,7.0,20.0
+2,23,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,33,True,7.0,20.0
+2,23,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,34,True,6.0,20.0
+2,24,WS,Baseline,beta,0.05,50,beta,,Random,0.983,1,25,True,9.0,19.66
+2,24,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,29,True,7.0,20.0
+2,24,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.983,1,27,True,8.0,19.66
+2,25,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,33,True,7.0,20.0
+2,25,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,27,True,7.0,20.0
+2,25,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,28,True,6.0,20.0
+2,26,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,27,True,8.0,20.0
+2,26,WS,Baseline,beta,0.05,50,beta,,Degree,0.96,1,25,True,7.0,19.2
+2,26,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,28,True,7.0,20.0
+2,27,WS,Baseline,beta,0.05,50,beta,,Random,0.985,1,32,True,10.0,19.7
+2,27,WS,Baseline,beta,0.05,50,beta,,Degree,0.963,1,27,True,7.0,19.259999999999998
+2,27,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.963,1,20,True,7.0,19.259999999999998
+2,28,WS,Baseline,beta,0.05,50,beta,,Random,1.0,1,29,True,10.0,20.0
+2,28,WS,Baseline,beta,0.05,50,beta,,Degree,1.0,1,31,True,7.0,20.0
+2,28,WS,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,35,True,9.0,20.0
+2,29,WS,Baseline,beta,0.05,50,beta,,Random,0.98,1,27,True,7.0,19.599999999999998
+2,29,WS,Baseline,beta,0.05,50,beta,,Degree,0.969,1,26,True,7.0,19.38
+2,29,WS,Baseline,beta,0.05,50,beta,,Betweenness,0.969,1,28,True,8.0,19.38
+2,0,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,12,True,9.0,20.0
+2,0,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,0,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,1,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,18,True,15.0,20.0
+2,1,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,1,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+2,2,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,9,True,6.0,20.0
+2,2,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,2,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,3,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,9,True,6.0,20.0
+2,3,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,3,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,4,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,13,True,9.0,20.0
+2,4,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,4,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,5,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,8.0,20.0
+2,5,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,5,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,6,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,10,True,8.0,20.0
+2,6,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,6,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,7,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,12,True,9.0,20.0
+2,7,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,7,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,8,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,21,True,18.0,20.0
+2,8,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,8,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,9,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,8,True,5.0,20.0
+2,9,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,9,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,10,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,10,True,6.0,20.0
+2,10,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+2,10,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+2,11,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,9,True,5.0,20.0
+2,11,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,11,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,12,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,17,True,14.0,20.0
+2,12,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,12,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,13,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,7.0,20.0
+2,13,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,13,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,14,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,13,True,9.0,20.0
+2,14,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,14,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,15,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,12,True,8.0,20.0
+2,15,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,15,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+2,16,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,14,True,10.0,20.0
+2,16,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+2,16,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+2,17,BA,Baseline,beta,0.05,50,beta,,Random,0.195,0,13,True,,3.9
+2,17,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+2,17,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+2,18,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,15,True,12.0,20.0
+2,18,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,18,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,19,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,8.0,20.0
+2,19,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,19,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,20,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,16,True,13.0,20.0
+2,20,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+2,20,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+2,21,BA,Baseline,beta,0.05,50,beta,,Random,0.168,0,8,True,,3.36
+2,21,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,21,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,22,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,8.0,20.0
+2,22,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,22,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,23,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,9,True,6.0,20.0
+2,23,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,23,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,24,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,17,True,14.0,20.0
+2,24,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+2,24,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+2,25,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,9,True,6.0,20.0
+2,25,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,25,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,26,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,11,True,7.0,20.0
+2,26,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,26,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,27,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,10,True,6.0,20.0
+2,27,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,27,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,28,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,9,True,6.0,20.0
+2,28,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,5,True,2.0,20.0
+2,28,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,5,True,2.0,20.0
+2,29,BA,Baseline,beta,0.05,50,beta,,Random,1.0,1,12,True,8.0,20.0
+2,29,BA,Baseline,beta,0.05,50,beta,,Degree,1.0,1,4,True,2.0,20.0
+2,29,BA,Baseline,beta,0.05,50,beta,,Betweenness,1.0,1,4,True,2.0,20.0
+2,0,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9605576334580075,1,24,True,14.0,19.21115266916015
+2,0,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9503570214212853,1,9,True,1.0,19.007140428425704
+2,0,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.953757225433526,1,8,True,1.0,19.07514450867052
+2,1,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9605576334580075,1,23,True,11.0,19.21115266916015
+2,1,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9527371642298538,1,10,True,1.0,19.054743284597073
+2,1,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9595375722543352,1,10,True,1.0,19.190751445086704
+2,2,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9663379802788167,1,26,True,16.0,19.32675960557633
+2,2,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9500170010200613,1,8,True,1.0,19.000340020401225
+2,2,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9554573274396464,1,8,True,1.0,19.10914654879293
+2,3,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9557973478408704,1,26,True,17.0,19.115946956817407
+2,3,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9455967358041483,1,8,True,1.0,18.911934716082964
+2,3,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9605576334580075,1,8,True,1.0,19.21115266916015
+2,4,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9588575314518871,1,23,True,14.0,19.17715062903774
+2,4,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.948996939816389,1,9,True,1.0,18.97993879632778
+2,4,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9585175110506631,1,9,True,1.0,19.170350221013262
+2,5,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9588575314518871,1,23,True,13.0,19.17715062903774
+2,5,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9557973478408704,1,9,True,1.0,19.115946956817407
+2,5,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9598775926555594,1,8,True,1.0,19.197551853111186
+2,6,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9693981638898334,1,22,True,10.0,19.387963277796665
+2,6,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9561373682420945,1,9,True,1.0,19.12274736484189
+2,6,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9605576334580075,1,8,True,1.0,19.21115266916015
+2,7,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9598775926555594,1,22,True,12.0,19.197551853111186
+2,7,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9574974498469908,1,10,True,1.0,19.149948996939816
+2,7,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9683781026861612,1,7,True,1.0,19.367562053723223
+2,8,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9615776946616797,1,18,True,12.0,19.231553893233595
+2,8,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9523971438286297,1,7,True,1.0,19.047942876572595
+2,8,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9578374702482149,1,6,True,1.0,19.156749404964295
+2,9,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9612376742604556,1,20,True,13.0,19.22475348520911
+2,9,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.953757225433526,1,8,True,1.0,19.07514450867052
+2,9,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9632777966678001,1,7,True,1.0,19.265555933356
+2,10,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9656579394763686,1,28,True,15.0,19.31315878952737
+2,10,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9612376742604556,1,9,True,1.0,19.22475348520911
+2,10,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9612376742604556,1,8,True,1.0,19.22475348520911
+2,11,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9690581434886093,1,18,True,9.0,19.381162869772186
+2,11,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9571574294457668,1,8,True,1.0,19.143148588915334
+2,11,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9612376742604556,1,8,True,1.0,19.22475348520911
+2,12,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9581774906494389,1,25,True,14.0,19.163549812988776
+2,12,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9415164909894593,1,9,True,1.0,18.830329819789185
+2,12,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9459367562053723,1,7,True,1.0,18.918735124107446
+2,13,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9540972458347501,1,20,True,11.0,19.081944916695
+2,13,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.948656919415165,1,8,True,1.0,18.973138388303298
+2,13,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.962937776266576,1,7,True,1.0,19.25875552533152
+2,14,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.972118327099626,1,23,True,13.0,19.44236654199252
+2,14,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9622577354641279,1,8,True,1.0,19.245154709282556
+2,14,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9673580414824889,1,8,True,1.0,19.347160829649777
+2,15,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9663379802788167,1,18,True,10.0,19.32675960557633
+2,15,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9598775926555594,1,7,True,1.0,19.197551853111186
+2,15,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9639578374702482,1,7,True,1.0,19.27915674940496
+2,16,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9697381842910575,1,22,True,12.0,19.39476368582115
+2,16,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9568174090445427,1,8,True,1.0,19.136348180890852
+2,16,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9639578374702482,1,7,True,1.0,19.27915674940496
+2,17,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9646378782726963,1,22,True,14.0,19.292757565453925
+2,17,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9608976538592315,1,9,True,1.0,19.217953077184628
+2,17,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9649778986739205,1,7,True,1.0,19.299557973478407
+2,18,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9622577354641279,1,26,True,16.0,19.245154709282556
+2,18,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9452567154029242,1,9,True,1.0,18.905134308058482
+2,18,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9571574294457668,1,8,True,1.0,19.143148588915334
+2,19,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9680380822849372,1,21,True,11.0,19.36076164569874
+2,19,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9608976538592315,1,8,True,1.0,19.217953077184628
+2,19,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9673580414824889,1,8,True,1.0,19.347160829649777
+2,20,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9608976538592315,1,37,True,19.0,19.217953077184628
+2,20,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9588575314518871,1,9,True,1.0,19.17715062903774
+2,20,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9619177150629038,1,8,True,1.0,19.238354301258074
+2,21,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9683781026861612,1,14,True,7.0,19.367562053723223
+2,21,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9585175110506631,1,10,True,1.0,19.170350221013262
+2,21,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9585175110506631,1,7,True,1.0,19.170350221013262
+2,22,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9551173070384223,1,25,True,17.0,19.102346140768447
+2,22,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9469568174090446,1,7,True,1.0,18.93913634818089
+2,22,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9476368582114927,1,7,True,1.0,18.952737164229852
+2,23,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9568174090445427,1,22,True,12.0,19.136348180890852
+2,23,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9554573274396464,1,7,True,1.0,19.10914654879293
+2,23,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9564773886433185,1,7,True,1.0,19.12954777286637
+2,24,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9608976538592315,1,19,True,11.0,19.217953077184628
+2,24,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9557973478408704,1,8,True,1.0,19.115946956817407
+2,24,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9598775926555594,1,8,True,1.0,19.197551853111186
+2,25,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9523971438286297,1,21,True,11.0,19.047942876572595
+2,25,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9496769806188371,1,9,True,1.0,18.99353961237674
+2,25,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9530771846310778,1,8,True,1.0,19.061543692621555
+2,26,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9557973478408704,1,22,True,10.0,19.115946956817407
+2,26,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9523971438286297,1,11,True,1.0,19.047942876572595
+2,26,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9595375722543352,1,8,True,1.0,19.190751445086704
+2,27,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.953757225433526,1,21,True,10.0,19.07514450867052
+2,27,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9574974498469908,1,8,True,1.0,19.149948996939816
+2,27,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9585175110506631,1,7,True,1.0,19.170350221013262
+2,28,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9557973478408704,1,28,True,14.0,19.115946956817407
+2,28,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9418565113906835,1,8,True,1.0,18.83713022781367
+2,28,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9544372662359741,1,8,True,1.0,19.088745324719483
+2,29,UK Rail,Baseline,beta,0.05,148,beta,,Random,0.9656579394763686,1,27,True,15.0,19.31315878952737
+2,29,UK Rail,Baseline,beta,0.05,148,beta,,Degree,0.9554573274396464,1,9,True,1.0,19.10914654879293
+2,29,UK Rail,Baseline,beta,0.05,148,beta,,Betweenness,0.9649778986739205,1,9,True,1.0,19.299557973478407
